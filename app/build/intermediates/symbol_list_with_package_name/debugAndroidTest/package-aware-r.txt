@@ -1,0 +1,3 @@
+com.nammavastra.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

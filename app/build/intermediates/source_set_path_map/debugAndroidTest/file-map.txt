@@ -1,0 +1,6 @@
+com.nammavastra.app.test.app-annotation-experimental-1.3.0-0 D:\GradleCache\caches\transforms-3\82f6725615b1d9c75c81806ec7a30848\transformed\annotation-experimental-1.3.0\res
+com.nammavastra.app.test.app-core-1.5.0-1 D:\GradleCache\caches\transforms-3\a3969876e7bab1718a4273e0762532bb\transformed\core-1.5.0\res
+com.nammavastra.app.test.app-androidTest-2 D:\nammavastra\app\build\generated\res\resValues\androidTest\debug
+com.nammavastra.app.test.app-mergeDebugAndroidTestResources-3 D:\nammavastra\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nammavastra.app.test.app-mergeDebugAndroidTestResources-4 D:\nammavastra\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nammavastra.app.test.app-merged_res-5 D:\nammavastra\app\build\intermediates\merged_res\debugAndroidTest

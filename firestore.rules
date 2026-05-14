@@ -1,0 +1,47 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+  
+    // Helper function to verify if the user is logged in
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    // Helper function to verify if the user is an admin
+    // Assumes you are setting a custom claim { admin: true } via Firebase Admin SDK
+    function isAdmin() {
+      return request.auth != null && request.auth.token.admin == true;
+    }
+
+    // Rules for the 'sarees' collection
+    match /sarees/{documentId} {
+      // Anyone logged in can view the global gallery
+      allow read: if isAuthenticated();
+      
+      // Creating a new saree: ensure they are setting their own userId
+      allow create: if isAuthenticated() && request.resource.data.userId == request.auth.uid;
+      
+      // Updating/Deleting: ensure they own the existing document, and aren't trying to change the owner
+      allow update: if isAuthenticated() 
+                    && resource.data.userId == request.auth.uid
+                    && request.resource.data.userId == request.auth.uid;
+                    
+      allow delete: if isAuthenticated() && resource.data.userId == request.auth.uid;
+    }
+
+    // Rules for the 'trends' collection
+    match /trends/{trendId} {
+      // Anyone logged in can view the trends board
+      allow read: if isAuthenticated();
+      
+      // Only administrators can curate and upload to the trends board
+      allow write: if isAdmin();
+    }
+    
+    // Rules for 'calculations' collection (From the Price Calculator feature)
+    match /calculations/{calcId} {
+      allow read, write: if isAuthenticated() && request.resource.data.userId == request.auth.uid;
+    }
+  }
+}

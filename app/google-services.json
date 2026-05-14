@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "129395837553",
+    "firebase_url": "https://namma-vastra-8fa1d-default-rtdb.firebaseio.com",
+    "project_id": "namma-vastra-8fa1d",
+    "storage_bucket": "namma-vastra-8fa1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129395837553:android:c1dd7dda5836454ad169d0",
+        "android_client_info": {
+          "package_name": "com.example.nammavastra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQp9mVQ8Nj1LqZDnk9C9YeU8v4AKuEqFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129395837553:android:52e1acb2b3ed51c6d169d0",
+        "android_client_info": {
+          "package_name": "com.nammavastra.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQp9mVQ8Nj1LqZDnk9C9YeU8v4AKuEqFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

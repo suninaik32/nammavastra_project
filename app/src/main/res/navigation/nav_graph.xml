@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.nammavastra.app.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <!-- Other fragments will be added here later: nav_trends, nav_upload, nav_calculator, nav_gallery -->
+    <fragment
+        android:id="@+id/nav_trends"
+        android:name="com.nammavastra.app.ui.trendboard.TrendBoardFragment"
+        android:label="Trends"
+        tools:layout="@layout/fragment_trend_board" />
+    <fragment
+        android:id="@+id/nav_upload"
+        android:name="com.nammavastra.app.ui.upload.UploadSareeFragment"
+        android:label="Upload"
+        tools:layout="@layout/fragment_upload_saree" />
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="com.nammavastra.app.ui.calculator.PriceCalculatorFragment"
+        android:label="Calculator"
+        tools:layout="@layout/fragment_price_calculator" />
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.nammavastra.app.ui.gallery.GalleryFragment"
+        android:label="Gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+</navigation>

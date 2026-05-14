@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_trends.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_trends.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_view_empty_state.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\view_empty_state.xml"
+    },
+    {
+        "merged": "com.nammavastra.app-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.nammavastra.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_item_trend_card.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\item_trend_card.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_home.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_fragment_price_calculator.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\fragment_price_calculator.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_fragment_upload_saree.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\fragment_upload_saree.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\font_poppins_semibold.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_bottom_sheet_upload_success.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\bottom_sheet_upload_success.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\font_poppins.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\font\\poppins.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_item_saree_fullscreen.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\item_saree_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\menu_menu_saree_detail.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\menu\\menu_saree_detail.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\menu_menu_gallery_selection.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\menu\\menu_gallery_selection.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_bg_splash.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\bg_splash.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_calculator.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_calculator.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_activity_splash.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\font_poppins_regular.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\font\\poppins_regular.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_upload.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_gallery.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\navigation_nav_graph.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "com.nammavastra.app-merged_res-55:/drawable_ic_login_header.xml.flat",
+        "source": "com.nammavastra.app-main-57:/drawable/ic_login_header.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_logo_placeholder.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_logo_placeholder.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_item_gallery_card.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\item_gallery_card.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_fragment_home.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\font_poppins_medium.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\anim_layout_animation_slide_up.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\anim\\layout_animation_slide_up.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_fragment_trend_board.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\fragment_trend_board.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_activity_main.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\drawable\\bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\font_poppins_bold.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_item_stat_card.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\item_stat_card.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_item_recent_upload.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\item_recent_upload.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\layout_activity_saree_detail.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\layout\\activity_saree_detail.xml"
+    },
+    {
+        "merged": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-merged_res-55:\\anim_item_slide_up.xml.flat",
+        "source": "D:\\GradleCache\\daemon\\8.2\\com.nammavastra.app-main-57:\\anim\\item_slide_up.xml"
+    }
+]

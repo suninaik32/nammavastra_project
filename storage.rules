@@ -1,0 +1,32 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+  
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Users upload to a folder matching their exact UID
+    match /sarees/{userId}/{fileName} {
+    
+      // Anyone logged in can view the saree images
+      allow read: if isAuthenticated();
+      
+      // Restrict uploads
+      allow write: if isAuthenticated() 
+                   // 1. You can only upload to your own dedicated folder
+                   && request.auth.uid == userId
+                   // 2. File size strictly less than 5 MB (5 * 1024 * 1024 bytes)
+                   && request.resource.size < 5 * 1024 * 1024
+                   // 3. File must be an image (prevents uploading PDFs, malicious executables, etc.)
+                   && request.resource.contentType.matches('image/.*');
+    }
+    
+    // Admins can manage the trends folder
+    match /trends/{allPaths=**} {
+      allow read: if isAuthenticated();
+      allow write: if request.auth != null && request.auth.token.admin == true;
+    }
+  }
+}
